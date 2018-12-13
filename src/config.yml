@@ -1,0 +1,6 @@
+connection:
+    host: 'ilars.eu'
+    database: 'u17613p27181_zolux'
+    username: 'u17613p27181_zoluxhcf'
+    password: 'DjovQQHjt'
+    port: '3306'

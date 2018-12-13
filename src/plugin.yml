@@ -1,0 +1,9 @@
+name: ZoluxHCF
+version: 1
+main: cc.zolux.hcf.HCF
+author: T0x1cPr0
+commands:
+    balance:
+      aliases: [bal, money]
+    faction:
+      aliases: [f, t, team]
